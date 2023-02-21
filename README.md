@@ -1,10 +1,11 @@
 # Linked-List
  -------------------------------------------------------------------------------
-1. Open the solution DataStructureFinalproject
-2. Open Program.cs from the solution explorer<br />
-3. Choose your your typing speed and name (more details below in Dynamic data section) inside the region "init Parameters" inside the main function<br />
-4. Exec<br />
-5. Change properties and try again<br />
+1. Download the repository zip and extract the folder Linked_list
+2. Open the solution DataStructureFinalproject
+3. Open Program.cs from the solution explorer<br />
+4. Choose your your typing speed and name (more details below in Dynamic data section) inside the region "init Parameters" inside the main function<br />
+5. Exec<br />
+6. Change properties and try again<br />
  -------------------------------------------------------------------------------
 Dynamic data:<br />
             1. Names of variables --> change the variables with Name from Parameters region.<br />
