@@ -1,6 +1,6 @@
 # Linked-List
  -------------------------------------------------------------------------------
-1. choose your your typing speed and name inside the region "init Parameters inside the main function<br />
+1. Choose your your typing speed and name inside the region "init Parameters inside the main function<br />
 2. Exec<br />
 3. Change properties and try again<br />
  -------------------------------------------------------------------------------
