@@ -1,0 +1,24 @@
+C:\Users\Koren Kaplan\source\repos\DataStructureFinalproject\DataStructureFinalproject\bin\Debug\DataStructureFinalproject.exe
+C:\Users\Koren Kaplan\source\repos\DataStructureFinalproject\DataStructureFinalproject\obj\Debug\DataStructureFinalproject.csproj.AssemblyReference.cache
+C:\Users\Koren Kaplan\source\repos\DataStructureFinalproject\DataStructureFinalproject\obj\Debug\DataStructureFinalproject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Koren Kaplan\source\repos\DataStructureFinalproject\DataStructureFinalproject\obj\Debug\DataStructureFinalproject.csproj.CoreCompileInputs.cache
+C:\Users\Koren Kaplan\source\repos\DataStructureFinalproject\DataStructureFinalproject\bin\Debug\DataStructureFinalproject.exe.config
+C:\Users\Koren Kaplan\source\repos\DataStructureFinalproject\DataStructureFinalproject\bin\Debug\DataStructureFinalproject.pdb
+C:\Users\Koren Kaplan\source\repos\DataStructureFinalproject\DataStructureFinalproject\obj\Debug\DataStructureFinalproject.exe
+C:\Users\Koren Kaplan\source\repos\DataStructureFinalproject\DataStructureFinalproject\obj\Debug\DataStructureFinalproject.pdb
+C:\Users\Koren Kaplan\Desktop\עבודות סיום סימסטר א\DataStructureFinalproject\DataStructureFinalproject\bin\Debug\DataStructureFinalproject.exe.config
+C:\Users\Koren Kaplan\Desktop\עבודות סיום סימסטר א\DataStructureFinalproject\DataStructureFinalproject\bin\Debug\DataStructureFinalproject.exe
+C:\Users\Koren Kaplan\Desktop\עבודות סיום סימסטר א\DataStructureFinalproject\DataStructureFinalproject\bin\Debug\DataStructureFinalproject.pdb
+C:\Users\Koren Kaplan\Desktop\עבודות סיום סימסטר א\DataStructureFinalproject\DataStructureFinalproject\obj\Debug\DataStructureFinalproject.csproj.AssemblyReference.cache
+C:\Users\Koren Kaplan\Desktop\עבודות סיום סימסטר א\DataStructureFinalproject\DataStructureFinalproject\obj\Debug\DataStructureFinalproject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Koren Kaplan\Desktop\עבודות סיום סימסטר א\DataStructureFinalproject\DataStructureFinalproject\obj\Debug\DataStructureFinalproject.csproj.CoreCompileInputs.cache
+C:\Users\Koren Kaplan\Desktop\עבודות סיום סימסטר א\DataStructureFinalproject\DataStructureFinalproject\obj\Debug\DataStructureFinalproject.exe
+C:\Users\Koren Kaplan\Desktop\עבודות סיום סימסטר א\DataStructureFinalproject\DataStructureFinalproject\obj\Debug\DataStructureFinalproject.pdb
+C:\Users\Koren Kaplan\Desktop\Sem A finals\DataStructureFinalproject\DataStructureFinalproject\bin\Debug\DataStructureFinalproject.exe.config
+C:\Users\Koren Kaplan\Desktop\Sem A finals\DataStructureFinalproject\DataStructureFinalproject\bin\Debug\DataStructureFinalproject.exe
+C:\Users\Koren Kaplan\Desktop\Sem A finals\DataStructureFinalproject\DataStructureFinalproject\bin\Debug\DataStructureFinalproject.pdb
+C:\Users\Koren Kaplan\Desktop\Sem A finals\DataStructureFinalproject\DataStructureFinalproject\obj\Debug\DataStructureFinalproject.csproj.AssemblyReference.cache
+C:\Users\Koren Kaplan\Desktop\Sem A finals\DataStructureFinalproject\DataStructureFinalproject\obj\Debug\DataStructureFinalproject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Koren Kaplan\Desktop\Sem A finals\DataStructureFinalproject\DataStructureFinalproject\obj\Debug\DataStructureFinalproject.csproj.CoreCompileInputs.cache
+C:\Users\Koren Kaplan\Desktop\Sem A finals\DataStructureFinalproject\DataStructureFinalproject\obj\Debug\DataStructureFinalproject.exe
+C:\Users\Koren Kaplan\Desktop\Sem A finals\DataStructureFinalproject\DataStructureFinalproject\obj\Debug\DataStructureFinalproject.pdb
