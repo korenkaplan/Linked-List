@@ -24,7 +24,7 @@ Dynamic data:<br />
             How to check a speccific function:<br />
             1.Inside the if condition replace false with true<br />
             2.Go to the body of the function CheckSpecificFunction()<br />
-            3.Place the region "syntax for validation in main" from the question you want to check (13-25)<br />
-            4.Remove the comoments signs from the region<br />
+            3.copy the region "syntax for validation in main" from the question you want to check (13-25) and place it in the function CheckSpecificFunction() <br />
+            4.Remove the comments signs from inside the region<br />
             5. Run the Code<br />
          
