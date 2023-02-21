@@ -1,8 +1,9 @@
 # Linked-List
  -------------------------------------------------------------------------------
-1. Choose your your typing speed and name inside the region "init Parameters inside the main function<br />
-2. Exec<br />
-3. Change properties and try again<br />
+1. Open Progam.cs from the solution explorer<br />
+2. Choose your your typing speed and name inside the region "init Parameters inside the main function<br />
+3. Exec<br />
+4. Change properties and try again<br />
  -------------------------------------------------------------------------------
 Dynamic data:<br />
             1. Names of variables --> change the variables with Name from Parameters region.<br />
