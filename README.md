@@ -18,4 +18,12 @@ Dynamic data:<br />
              cmSpeed --> the speed the comments are typed to console.(green color).<br />
              codeSpeed --> the speed the code is written to console.(white color)<br />
              otSpeed  --> the speed the code output is typed to console.(dark yellow color)<br />
+              -------------------------------------------------------------------------------<br />
+            How to check a speccific function:<br />
+            1.Inside the if condition replace false with true<br />
+            2.Go to the body of the function CheckSpecificFunction()<br />
+            3.Place the region "syntax for validation in main" from the question you want to check (13-25)<br />
+            4.Remove the comoments signs from the region<br />
+            5. Run the Code<br />
+           -------------------------------------------------------------------------------<br />
            
