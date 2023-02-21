@@ -1,7 +1,7 @@
 # Linked-List
  -------------------------------------------------------------------------------
 1. Download the repository zip and extract the folder Linked-list
-2. Open the solution DataStructureFinalproject
+2. Open the DataStructureFinalproject.sln (solution file)
 3. Open Program.cs from the solution explorer<br />
 4. Choose your your typing speed and name (more details below in Dynamic data section) inside the region "init Parameters" inside the main function<br />
 5. Exec<br />
