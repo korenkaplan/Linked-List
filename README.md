@@ -1,9 +1,8 @@
 # Linked-List
  -------------------------------------------------------------------------------
-1. Collapse all the regions, for a cleaner look. Or only the main regions in line 46,823,1553.<br />
-2. choose your properties(name, SStyping speed)<br />
-3. Exec<br />
-4. Change properties and try again<br />
+1. choose your your typing speed and name inside the region "init Parameters inside the main function<br />
+2. Exec<br />
+3. Change properties and try again<br />
  -------------------------------------------------------------------------------
 Dynamic data:<br />
             1. Names of variables --> change the variables with Name from Parameters region.<br />
@@ -25,5 +24,4 @@ Dynamic data:<br />
             3.Place the region "syntax for validation in main" from the question you want to check (13-25)<br />
             4.Remove the comoments signs from the region<br />
             5. Run the Code<br />
-           -------------------------------------------------------------------------------<br />
-           
+         
